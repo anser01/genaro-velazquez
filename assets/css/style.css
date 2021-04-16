@@ -161,6 +161,7 @@ a:not([href]):not([tabindex]) {
     z-index: 20;
     letter-spacing: 2px;
     overflow: hidden;
+    cursor:pointer;
 }
 
 .btn:hover {
