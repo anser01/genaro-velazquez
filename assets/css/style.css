@@ -168,6 +168,7 @@ a:not([href]):not([tabindex]) {
     background-color: #FFF;
     border: 2px solid #666;
     letter-spacing: 3px;
+    cursor:pointer;
 }
 
 .btn:focus {
